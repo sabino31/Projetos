@@ -8,6 +8,6 @@ int main(){
     char letra = 'A';
     char nome[20] = "matheus sabino";
 
-    idade = 25;
+    idade = 23;
     
 }
